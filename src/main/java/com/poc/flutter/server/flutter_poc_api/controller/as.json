@@ -1,0 +1,36 @@
+{
+    id: null,
+    name: asd,
+    apellido: asd,
+    dni: 12345678,
+    domicilio: asd,
+    peso: 1.0,
+    altura: 1.0,
+    fechaNacimiento: 1607482800000,
+    antecedentesFamiliares: [
+        {
+            id: 2,
+            descripcion: Obesidad
+        },
+        {
+            id: 3,
+            descripcion: Bla
+        }
+    ],
+    enfermedadesPreexistentes: [
+        {
+            id: 1,
+            descripcion: Diabetes
+        },
+        {
+            id: 2,
+            descripcion: Obesidad
+        }
+    ]
+}
+
+
+
+
+
+json = "{\"id\": null, \"name\": \"asd\", \"apellido\": \"asd\", \"dni\": 12345678, \"domicilio\": \"asd\", \"peso\": 1.0, \"altura\": 1.0, \"fechaNacimiento\": 1608778800000, \"antecedentesFamiliares\": [{\"id\": 3, \"descripcion\": \"Bla\"}, {\"id\": 2, \"descripcion\": \"Obesidad\"}],  \"enfermedadesPreexistentes\": [{\"id\": 2, \"descripcion\": \"Obesidad\"}, {\"id\": 1, \"descripcion\": \"Diabetes\"}]}"
